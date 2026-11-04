@@ -1,0 +1,1 @@
+Сюда кладётся libxmrig.so (см. README)

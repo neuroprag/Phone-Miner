@@ -1,0 +1,155 @@
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/obj/local/arm64-v8a/objs-debug/SDL2/src/render/opengles/SDL_render_gles.o: \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/src/render/opengles/SDL_render_gles.c \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/src/render/opengles/../../SDL_internal.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/src/render/opengles/../../dynapi/SDL_dynapi.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_config.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_platform.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/begin_code.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/close_code.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_config_android.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_assert.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_stdinc.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_log.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_hints.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/src/render/opengles/../../video/SDL_sysvideo.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/src/render/opengles/../../video/../SDL_internal.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_messagebox.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_video.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_pixels.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_endian.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_rect.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_error.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_rwops.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_surface.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_blendmode.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_shape.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_thread.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_atomic.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_mutex.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_metal.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/src/render/opengles/../../video/SDL_vulkan_internal.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/src/render/opengles/../../video/./khronos/vulkan/vulkan.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/src/render/opengles/../../video/./khronos/vulkan/vk_platform.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/src/render/opengles/../../video/./khronos/vulkan/vulkan_core.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/src/render/opengles/../../video/./khronos/vulkan/vulkan_android.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_vulkan.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_opengles.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/src/render/opengles/../SDL_sysrender.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_render.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_events.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_keyboard.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_keycode.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_scancode.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_mouse.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_joystick.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_guid.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_gamecontroller.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_sensor.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_quit.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_gesture.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_touch.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/src/render/opengles/../SDL_yuv_sw_c.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/src/render/opengles/../../SDL_utils_c.h \
+  /workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/src/render/opengles/SDL_glesfuncs.h
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/src/render/opengles/../../SDL_internal.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/src/render/opengles/../../dynapi/SDL_dynapi.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_config.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_platform.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/begin_code.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/close_code.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_config_android.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_assert.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_stdinc.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_log.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_hints.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/src/render/opengles/../../video/SDL_sysvideo.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/src/render/opengles/../../video/../SDL_internal.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_messagebox.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_video.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_pixels.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_endian.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_rect.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_error.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_rwops.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_surface.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_blendmode.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_shape.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_thread.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_atomic.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_mutex.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_metal.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/src/render/opengles/../../video/SDL_vulkan_internal.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/src/render/opengles/../../video/./khronos/vulkan/vulkan.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/src/render/opengles/../../video/./khronos/vulkan/vk_platform.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/src/render/opengles/../../video/./khronos/vulkan/vulkan_core.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/src/render/opengles/../../video/./khronos/vulkan/vulkan_android.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_vulkan.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_opengles.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/src/render/opengles/../SDL_sysrender.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_render.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_events.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_keyboard.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_keycode.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_scancode.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_mouse.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_joystick.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_guid.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_gamecontroller.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_sensor.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_quit.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_gesture.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_touch.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/src/render/opengles/../SDL_yuv_sw_c.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/src/render/opengles/../../SDL_utils_c.h:
+
+/workspaces/Phone-Miner/phone-miner/.buildozer/android/platform/build-arm64-v8a/build/bootstrap_builds/sdl2/jni/SDL/src/render/opengles/SDL_glesfuncs.h:
